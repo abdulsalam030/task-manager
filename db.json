@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "98304d84-1db8-455b-abd8-d8942a4550f2",
+      "title": "Eating1",
+      "description": "Action",
+      "category": "Work",
+      "completed": false
+    },
+    {
+      "id": "bc5b73e6-d38b-4c09-89e7-75946bbf1e77",
+      "title": "Work and Code",
+      "description": "Design database",
+      "category": "Personal",
+      "completed": false
+    },
+    {
+      "id": "3ed1c5a8-6c8b-4951-bb99-aa46f891e561",
+      "title": "Coding",
+      "description": "Managing Tasks and other stuffs",
+      "category": "Personal",
+      "completed": false
+    }
+  ]
+}
